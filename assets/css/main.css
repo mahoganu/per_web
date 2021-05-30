@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Raleway', 'sans-serif';
+    color: white;
+   }
+   
+   footer {
+     height: 100%;
+     margin: 0;
+   }
+   
+   .full-page {
+     background-color: #852b28;
+     height: 100vh;
+     min-height: 100vh;
+     margin-top: 13vh;
+   }
+   
+   .container {
+     background-color: #111b25;
+     height: 110vh;
+     min-height: 100vh;
+   }
+   
+   nav {
+     position: fixed;
+     width: 100%;
+     background-color: #852b28;
+     top: 0;
+   }
+   
+   .nav-link {
+     float: right;
+     display: block;
+     color: black;
+     background-color: #852b28;
+     color: white;
+     height: 7vh;
+     padding: 3vh;
+   }
